@@ -1,3 +1,5 @@
-# Resume-Projects
+# QuoteMaster Program
 
-The repository is a list of projects that I have completed during my time at EKU which I feel are worth presenting.
+The project allows a user to connect to and use a database of quotes. The GUI allows them to either search for a quote based on specific qualities or to let them add their own quotes.
+
+It was the final project due for my Intro to Databases class at EKU.
